@@ -1,0 +1,77 @@
+[{
+    "confirmation": "success",
+    "data": [
+    {
+    "location": {
+    "coordinates": [
+    10.94024739999999,
+    51.3626299
+    ],
+    "type": "Point"
+    },
+    "_id": "55cba2476c522cafdb053af4",
+    "name": "Garcia Kate",
+    "description": "Nurse with 15 years experience in Rehab facilitation"
+    },
+    {
+    "location": {
+    "coordinates": [
+    10.4522,
+    51.1659
+    ],
+    "type": "Point"
+    },
+    "_id": "55cba2476c522cafdb053ae5",
+    "name": "Sarah Williams",
+    "description": "Nurse with 5 years experience in pediatric assisstance"
+    },
+    {
+    "location": {
+    "coordinates": [
+    10.856077,
+    51.848447
+    ],
+    "type": "Point"
+    },
+    "_id": "55cba2476c522cafdb053add",
+    "name": "Wendy Parker",
+    "description": "Nurse with 5 years experience in chiropractic therapy"
+    },
+    {
+    "location": {
+    "coordinates": [
+    10.8803827,
+    51.8883124
+    ],
+    "type": "Point"
+    },
+    "_id": "55cba2476c522cafdb053ae1",
+    "name": "Jessica Chastain",
+    "description": "Nurse with 15 years experience in Rehab facilitation"
+    },
+    {
+    "location": {
+    "coordinates": [
+    10.996984,
+    51.92589
+    ],
+    "type": "Point"
+    },
+    "_id": "55cba2476c522cafdb053af6",
+    "name": "Angelika Plato",
+    "description": "Nurse with 15 years experience in Rehab facilitation"
+    },
+    {
+    "location": {
+    "coordinates": [
+    10.9925306,
+    52.7309346
+    ],
+    "type": "Point"
+    },
+    "_id": "55cba2476c522cafdb053af2",
+    "name": "Belle Logan",
+    "description": "Nurse with 15 years experience in cancer treatment assistance"
+    }
+    ]
+    }]
